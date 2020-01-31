@@ -5,6 +5,8 @@
 * [Source Repository](https://github.com/neeleshsaladi/about-me/edit/master/README.md)
 
 * [Hosted page](https://neeleshsaladi.github.io/about-me/)
+## About
+This repository is an about me for 44 - 563 -03. Where I will use web site creation techniques I learned in class. To create a web page to share information about me.
 ## Recommended Tools
 1. [Brackets](http://brackets.io/) is a source code editor helps us to edit the code which focus on the web develpment, it is a free open source software. 
 2. [Github pages](https://pages.github.com/) is a static site hosting service designed to host personal, organization, or project pages directly from a GitHub repository.
