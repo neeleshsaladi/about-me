@@ -16,5 +16,5 @@
 2. [Stack Overflow](https://stackoverflow.com/)  is a question and answer site for professional and enthusiast programmers.
 ## Contributors
 Neelesh Saladi - Applied Computer Science
-<img src="click.jpg" alt="click" width="500" height="333">
-Clicked by me.
+![Image](https://ak7.picdn.net/shutterstock/videos/19708147/thumb/4.jpg)
+Source [shuttertock](https://www.shutterstock.com/video/clip-19708147-footage-crowd-partying-dancing-concert-shot-on)
