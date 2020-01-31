@@ -2,9 +2,9 @@
 ## Neelesh-Saladi-About-me
 #### This is the place where I design
 ## Repository Links
-[Source Repository](https://github.com/neeleshsaladi/about-me/edit/master/README.md)
+* [Source Repository](https://github.com/neeleshsaladi/about-me/edit/master/README.md)
 
-[Hosted page]()
+* [Hosted page]()
 ## Recommended Tools
 1. [Brackets](http://brackets.io/)
 2. [Github pages](https://pages.github.com/)
