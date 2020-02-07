@@ -1,0 +1,20 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+article {
+    border: 1px solid black;
+    padding: 2em;
+    background-color: 1px cornflowerblue;
+}
+body {
+    border: 1px solid blue;
+    padding: 2em;
+}
+section {
+    margin:1 em;
+}
+h2, h3 {
+    color: rgb(red, green, blue);
+}
