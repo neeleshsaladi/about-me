@@ -20,7 +20,7 @@ article{
 }
 section{
     border: 1px solid black;
-    background-color: rgb(138, 241, 193);
+    background-color: rgb(200, 233, 248);
 }
 section {
     margin:1 em;
@@ -38,13 +38,23 @@ h2, h3 {
 }
 
 
-.jumbotron{
-    background-size:cover;
-}
-color:white
-}
 
-.fa {
+
+footer{
+    background: lightblue;
+    /* padding: 50px; */
+    text-align: center;
+  }
+
+  footer p{
+    padding: 15px 0;
+    margin: 0;
+  }
+
+  #copyright{
+      color: black
+  }
+  .fa {
     padding: 20px;
     font-size: 30px;
     width: 70px;
@@ -66,19 +76,9 @@ color:white
   .fa-linkedin {
     background: #007bb5;
     color: white;
+  }
+  .fa-github {
+    background: #55ACEE;
+    color: white;
+  }
   
-}
-
-footer{
-    background: lightblue;
-    /* padding: 50px; */
-    text-align: center;
-  }
-
-  footer p{
-    padding: 15px 0;
-    margin: 0;
-  }
-
-  #copyright{
-      color: black
